@@ -1,1 +1,1 @@
-https://nbviewer.jupyter.org/github/shiek333/pandas-challenge/blob/main/Analysis/HeroesOfPymoli.ipynb
+https://nbviewer.jupyter.org/github/shiek333/pandas-challenge/blob/73d7c33d6d55b6e9f3841a68ce06277db48683b9/Analysis/HeroesOfPymoli_Analysis.ipynb
